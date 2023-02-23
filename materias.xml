@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<materias>
+  <materia>
+        <codigo>PROD00001</codigo>
+        <nombre>Camiseta de algod&#xF3;n cuello redondo</nombre>
+        <descripcion>Camiseta Mod. 1, elaborada en algod&#xF3;n de 200 grs. cuello redondo decorado, manga corta, costuras en cierres laterales.</descripcion>
+        <img>PROD00001.jpg</img>
+        <categoria>Textil</categoria>
+        <precio>2.50</precio>
+        <existencias>500</existencias>
+  </materia>
+  <codigo>PROD00002</codigo>
+        <nombre>Camiseta de algod&#xF3;n cuello V</nombre>
+        <descripcion>Camiseta Mod. 2, elaborada en algod&#xF3;n de 200 grs. cuello en V decorado, manga corta, costuras en cierres laterales.</descripcion>
+        <img>PROD00002.jpg</img>
+        <categoria>Textil</categoria>
+        <precio>2.90</precio>
+        <existencias>462</existencias>
+</materias>
